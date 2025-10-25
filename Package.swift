@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ADSplashKit",
-            url: "https://github.com/anupdsouza/ADSplashKit/releases/download/0.0.4/ADSplashKit.xcframework.zip",
-            checksum: "d8169dcff24baebca27e3d817066d758ca4b6b067b5fac7226ea0cc7d4d5abe1"
+            url: "https://github.com/anupdsouza/ADSplashKit/releases/download/0.0.5/ADSplashKit-0.0.5.zip",
+            checksum: "7fe173fb9794aeeedfaedfe1d4b07eb67afea76310b0bf60f9280d76b5fba396"
         )
     ]
 )
